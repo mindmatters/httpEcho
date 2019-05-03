@@ -1,20 +1,20 @@
 {
-		"name": "echohttp",
+		"name": httpecho,
 		"version": "0.5.1",
 		"author": {
 				"name": "G. Magholder",
-				"email": "gmagholder@gmail.com"
+				"email": gunnar.magholder@mindmatters.de
 		},
 		"main": "server.js",
-		"homepage": "https://github.com/gunnarmagholder/httpEcho",
-		"bugs": "https://github.com/gunnarmagholder/httpEcho/issues",
+		"homepage": https://github.com/mindmatters/httpEcho,
+		"bugs": https://github.com/mindmatters/httpEcho/issues
 		"bin": {
 				"echohttp": "./server.js"
 		},
 		"preferGlobal": true,
 		"repository": {
 				"type": "git",
-				"url": "https://github.com/gunnarmagholder/httpEcho"
+				"url": "https://github.com/mindmatters/httpEcho"
 		},
 		"license": "MIT",
 		"scripts": {
