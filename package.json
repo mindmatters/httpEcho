@@ -3,11 +3,11 @@
 		"version": "0.5.1",
 		"author": {
 				"name": "G. Magholder",
-				"email": gunnar.magholder@mindmatters.de
+				"email": betrieb@mindmatters.de,
 		},
 		"main": "server.js",
 		"homepage": https://github.com/mindmatters/httpEcho,
-		"bugs": https://github.com/mindmatters/httpEcho/issues
+		"bugs": https://github.com/mindmatters/httpEcho/issues,
 		"bin": {
 				"echohttp": "./server.js"
 		},
